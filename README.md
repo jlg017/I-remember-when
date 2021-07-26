@@ -1,5 +1,7 @@
 # I Remember When...
 
+Project completed April 2021, developed by Jacqueline Greer, Ahmed Ali, Punar Brar and Delaram Omidi
+
 Game trailer: https://youtu.be/HOCaHMsrhu0
 
 _I Remember When…_ is a social, “get-to-know-you”, conversation-based Android game that allows participants to share funny stories based on prompts. The game is useful as a social game for seniors both in concept and in its design.
